@@ -1,5 +1,7 @@
 # Smart Shop - Mobile Application
 
+![App Banner](Banner.png)
+
 ## Overview
 
 **Smart Shop** is a robust Point of Sale (POS) solution designed for small and medium-sized businesses. This mobile application, part of a broader Smart Shop ecosystem, empowers business owners to manage transactions, track inventory, and generate insightful analytics directly from their smartphones or tablets, whether they are on Android or iOS.
@@ -9,7 +11,27 @@ For the complete Smart Shop experience, including the web-based backend, visit t
 
 - [Smart Shop Website/Backend](https://github.com/arifhaidari/pos_management)
 
-![App Banner](Banner.png)
+## Screenshots
+
+Following there are some screenshots of applications from production. For more screenshots and functionalities click on the link below:
+
+Want to see more? [Click here to view all screenshots](https://github.com/arifhaidari/smart_shop_services/tree/main/screenshots)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-around;">
+
+  <img src="screenshots/01.png" alt="Homepage" width="30%">
+  
+  <img src="screenshots/07.png" alt="Order and Invoice" width="30%">
+  
+  <img src="screenshots/12.png" alt="More" width="30%">
+
+  <img src="screenshots/13.png" alt="Dashboard" width="30%">
+  
+  <img src="screenshots/19.png" alt="Chart" width="30%">
+  
+  <img src="screenshots/32.png" alt="Invoice" width="30%">
+
+</div>
 
 ## Key Features
 
@@ -55,7 +77,7 @@ For the complete Smart Shop experience, including the web-based backend, visit t
 
 ### 1. Brochure
 
-![Smart Shop Brochure](Smart_Shop_Brochure.jpg)
+![Smart Shop Brochure](smartshop_brochure.jpg)
 
 ### 2. Promotional Video
 
