@@ -9,7 +9,7 @@ For the complete Smart Shop experience, including the web-based backend, visit t
 
 - [Smart Shop Website/Backend](https://github.com/arifhaidari/pos_management)
 
-![App Banner](App_Banner.png)
+![App Banner](Banner.png)
 
 ## Key Features
 
@@ -74,8 +74,6 @@ A comprehensive playlist of tutorials and user manuals is available to help you 
 - **Technologies**: Python (Django), Flutter, Computer Vision
 - **Database**: SQLite (local storage with cloud sync)
 - **Hardware Integration**: Thermal Printer and Bluetooth
-
-Here is the updated section for the **Technical Stack**:
 
 ---
 
